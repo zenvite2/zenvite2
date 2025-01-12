@@ -1,10 +1,10 @@
 <table>
   <tr>
     <td>
-      <img src="http://github-readme-streak-stats.herokuapp.com?user=Cutiepie4&theme=tokyonight" />
+      <img src="http://github-readme-streak-stats.herokuapp.com?user=zenvite2&theme=tokyonight" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cutiepie4&layout=compact&show_icons=true&theme=tokyonight" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zenvite2&layout=compact&show_icons=true&theme=tokyonight" />
     </td>
   </tr>
 </table>
